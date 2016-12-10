@@ -17,7 +17,7 @@ public class OpenApp {
 		log.debug(" Facebook Application is opened");
 		
 		System.out.println(driver.getTitle());
-		
+		System.out.println(driver.getTitle());
 		log.debug("Title is displayed");
 
 	}
